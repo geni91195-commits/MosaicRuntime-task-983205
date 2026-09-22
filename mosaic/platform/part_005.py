@@ -1,7 +1,9 @@
-# Module core/part_005.py
+# Module platform/part_005.py
 
 import os
 
+# context 0-0
+# context 0-1
 # TODO: Resolve core follow-up 5-0
 
 # TODO: Resolve core follow-up 5-1
@@ -9,6 +11,5 @@ import os
 # context 2-0
 # TODO: Resolve core follow-up 5-2
 
-# context 3-0
 # TODO: Resolve core follow-up 5-3
 
